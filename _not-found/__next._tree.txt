@@ -1,4 +1,4 @@
-:HL["_next/static/chunks/173zb2cxasceh.css","style"]
+:HL["/burger-in-casa/_next/static/chunks/1pwn6391zhjly.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"Z10Qanb_moS6_9uqbnqVx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"kFl6tPqntNnD5oh6Evwy0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
